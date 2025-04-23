@@ -1,17 +1,52 @@
 # Explanation of the lasagna exercise
-## Constants:
+## Key Improvements:
+Defined all required constants:
 
-EXPECTED_OVEN_TIME: 40 minutes (total baking time)
+EXPECTED_BAKE_TIME for total baking duration
 
-PREPARATION_TIME_PER_LAYER: 2 minutes per layer
+PREPARATION_TIME for time per layer
 
-## Functions:
+## Completed all functions:
 
-oven_time_remaining(): Calculates how much time is left until the oven is finished baking
+Implemented bake_time_remaining()
 
-preparation_time_minutes(): Calculates total preparation time
+Implemented preparation_time_in_minutes()
 
-elapsed_time_minutes(): Adds preparation + baking time
+Implemented elapsed_time_in_minutes()
+
+## Added complete docstrings:
+
+Each function has proper documentation
+
+Specified parameters and return values
+
+Included module-level docstring
+
+## Removed all TODOs:
+
+No pending comments remain
+
+All code is fully implemented
+
+## Additional improvements:
+
+Clear and consistent naming
+
+Well-organized structure
+
+Independent but related functions
+
+Follows Python best practices
+
+## This version should:
+
+Pass all Pylint checks
+
+Meet all exercise requirements
+
+Have proper English documentation
+
+Be production-ready code
 
 ---
 
